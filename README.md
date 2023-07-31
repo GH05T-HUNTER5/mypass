@@ -1,4 +1,7 @@
-# mypass
+# Why the MyPass tool?
+* It is an automatic tool that you can use to generate different types of passwords for yourself.
+* You can generate various popular passwords using it
+* It is also used in various password attacks <br>
   <b> Create your own password list</b>
 
 ```
