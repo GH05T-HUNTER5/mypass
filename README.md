@@ -4,6 +4,8 @@
 * It is also used in various password attacks <br>
   <b> Create your own password list</b>
 
+## INSTALLATION
+
 ```
 apt install git python
 ```
