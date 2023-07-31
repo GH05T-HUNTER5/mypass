@@ -1,5 +1,5 @@
 # mypass
-Create your own password list
+  <b> Create your own password list</b>
 
 ```
 apt install git python
