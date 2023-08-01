@@ -44,26 +44,47 @@ fi
 Usage: mypass [options]
 
 Options:
+
 Auto
+
 -l, --letter           password type (letter)
+
 -n, --number           password type (number)
+
 -m, --mix              password type (mixed password)
+
 Use : mypass option 8 1000 filename
+
 option  : -l, --letter, -n, --number , -m, --mix
+
 8       : password length
+
 1000    : password lines
+
 filename: filename(password file name)
+
 example
+
 $ mypass -n 8 1000 password.txt
+
 Manual
+
 -manual, --manual, manual: create yourself (useful)
+
 Use : mypass option 1000 filename
+
 option  : -manual , --manual , manual
+
 1000    : password length
+
 filename: filename(password file name)
+
 example
+
 $ mypass manual 1000 password.txt
+
 Or
+
 Just Type : mypass
 
 
