@@ -105,7 +105,7 @@ This is just a password generator tool, sometimes your password may be generated
 
 <small>collaborate</small>
 
-Contact  :  <a href="mailto: gh05thunter5@proton.me">Send Email</a>
+Contact  :  <a href="mailto: hunter5@proton.me">Send Email</a> {Don't ask me how to hack social media}
 
 Telegram Channel  :  <a href="https://t.me/GH05T_HUNTER5">GH05T HUNTER5</a>
 
