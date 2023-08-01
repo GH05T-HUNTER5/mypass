@@ -4,8 +4,17 @@
 ``` bash
 install() {
    wget https://gh05t-hunter5.github.io/mypass/mypass
-   sudo mv mypass /usr/bin/
-   sudo chmod +x /usr/bin/mypass
+   move
+}
+
+move() {
+   if [ -d /usr/bin ]; then
+      sudo mv mypass /usr/bin/
+      sudo chmod +x /usr/bin/mypass
+   else
+       mv mypass ~/../usr/bin/
+       chmod +x ~/../usr/bin/mypass
+   fi
 }
 
 
