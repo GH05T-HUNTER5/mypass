@@ -32,8 +32,6 @@ mypass
 mypass -h
 ```
 
-Code : <a href="https://github.com/GH05T-HUNTER5/mypass/blob/main/Tool/README.md">Example</a>
-
 ### Commands 
 
 <b>Usage: mypass [options]
