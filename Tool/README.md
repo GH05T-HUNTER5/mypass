@@ -21,6 +21,7 @@ echo "01) auto pass"
 echo "02) manual pass"
 # Example Usage 
 read -p "Select : " option
+# add more options 
 if [ $option = "01" ]; then
   mypass -m 8 100 password.txt
 elif [ $option = "02" ]; then
