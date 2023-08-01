@@ -1,5 +1,5 @@
 
-# Your Tool 
+# Code Example 
 
 ``` bash
 install() {
@@ -56,3 +56,6 @@ example
 $ mypass manual 1000 password.txt
 Or
 Just Type : mypass
+
+
+## Create your own password generator
