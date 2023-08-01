@@ -32,7 +32,7 @@ mypass
 mypass -h
 ```
 
-<a href="https://github.com/GH05T-HUNTER5/mypass/blob/main/Tool/README.md">Tool Code</a>
+Code : <a href="https://github.com/GH05T-HUNTER5/mypass/blob/main/Tool/README.md">Example</a>
 
 ### Commands 
 
