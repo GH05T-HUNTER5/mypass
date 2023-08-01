@@ -26,6 +26,12 @@ python3 install.py
 mypass
 ```
 
+### Or
+
+```
+mypass -h
+```
+
 `
 You can use this tool to perform a brute force attack, and you can create your own password list and check if your password matches it.
 `
