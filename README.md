@@ -32,6 +32,10 @@ mypass
 mypass -h
 ```
 
+<b>Video : <a href="https://telegram.me/GH05T_HUNTER5/435">Link 1</a></b>
+
+<b>Video : <a href="https://t.me/linuxcybersecurity/10784">Link 2</a></b>
+
 ### Commands 
 
 <b>Usage: mypass [options]
