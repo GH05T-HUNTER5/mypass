@@ -100,7 +100,7 @@ MyPass is a password generator tool. It is essential to acknowledge that neither
 
 For collaboration or inquiries, please contact us through the following channels:
 
-- Email: [Send Email](mailto: hunter5@proton.me) (Kindly refrain from inquiries related to hacking social media.)
+- Email: [Send Email](mailto:hunter5@proton.me) (Kindly refrain from inquiries related to hacking social media.)
 - Telegram Channel: [GH05T HUNTER5](https://t.me/GH05T_HUNTER5)
 
 ## Contributing
