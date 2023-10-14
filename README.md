@@ -14,29 +14,41 @@ MyPass is a sophisticated automated tool designed to empower you in generating h
 
 1. Begin by installing the necessary dependencies:
 
-   `apt install git python`
+   ```bash
+   apt install git python
+   ```
 
-2. Clone the MyPass repository:
+3. Clone the MyPass repository:
 
-   `git clone https://github.com/GH05T-HUNTER5/mypass`
+   ```bash
+   git clone https://github.com/GH05T-HUNTER5/mypass
+   ```
 
-3. Navigate to the MyPass directory:
+5. Navigate to the MyPass directory:
 
-   `cd mypass`
+   ```bash
+   cd mypass
+   ```
 
-4. Execute the installation script:
+7. Execute the installation script:
 
-   `python3 install.py`
+   ```bash
+   python3 install.py
+   ```
 
-5. Start MyPass:
+9. Start MyPass:
 
-   `mypass`
+   ```bash
+   mypass
+   ```
 
 ### Windows (PowerShell)
 
 1. Navigate to the MyPass directory and run the PowerShell script:
 
-   `./mypass.ps1`
+   ```ps1
+   ./mypass.ps1
+   ```
 
 ## Video Tutorials
 
